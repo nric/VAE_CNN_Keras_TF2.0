@@ -10,7 +10,7 @@ Whilst I don't claim any stability for implementation, I think it is very educat
 both the concepts of VAE and the options Keras have to implement statistical nodes and complex
 loss functions and divergeses.
 
-It is tested here on MNIST dataset.
+It is tested here on MNIST dataset. Performence wise, both are pretty identical.
 
 Class VAE_CNN1 is smilar to the Keras reference example: https://keras.io/examples/variational_autoencoder_deconv/
 
