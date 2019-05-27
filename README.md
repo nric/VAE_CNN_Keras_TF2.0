@@ -1,10 +1,10 @@
 # VAE_CNN_Keras_TF2.0
-Two different implementations of a Variational Autoencoder VAE with convolutional  Neural networks via Tesorflow 2.0/Keras.
+Two different implementations of a Variational Autoencoder VAE with convolutional neural networks via Tesorflow 2.0/Keras.
 
-Both are in the end encapulated into an object wich a train() (or alternativle load_weights()) and
-has accesible enoder, decoder, and vae models inside them.
+Both are encapulated into an object wich a train() (or alternativle load_weights()) and carries accesible enoder, decoder, 
+and vae models inside them.
 
-Thier implementation hover differ. I did this for learning better how to implement statistical and predictive models via tf2.0/keras.
+Thier implementation hover differ. I did this for learning better how to implement statistical nodes and predictive models via tf2.0/keras.
 
 Whilst I don't claim any stability for implementation, I think it is very educational for understanding
 both the concepts of VAE and the options Keras have to implement statistical nodes and complex
