@@ -15,3 +15,6 @@ It is tested here on MNIST dataset.
 Class VAE_CNN1 is smilar to the Keras reference example: https://keras.io/examples/variational_autoencoder_deconv/
 
 Class VAE_CNN2 is in accordance with the nice description of Tiao: http://louistiao.me/posts/implementing-variational-autoencoders-in-keras-beyond-the-quickstart-tutorial/
+
+![](vae_mean.png)
+![](digits_over_latent.png)
